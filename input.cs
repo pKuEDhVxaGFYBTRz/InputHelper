@@ -56,7 +56,7 @@ namespace Input
             }
         }
 
-        // yess no prompt
+        // yes/no prompt
         public static bool InputYesNo(string prompt, string err = "invalid input", string append = " (y/n)")
         {
             string input;
